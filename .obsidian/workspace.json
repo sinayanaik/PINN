@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "498fb10886a4806c",
+    "type": "split",
+    "children": [
+      {
+        "id": "75bf072b2efdf33c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80323298ac5213f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/PINN/Ben Moseley PINN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ben Moseley PINN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15c96913499ba6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f1a63362b363cec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e218e855da15dd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26f27e3aa8202caa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e57f21fc4f9c5c49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec2f67ebcee57789",
+    "type": "split",
+    "children": [
+      {
+        "id": "031e94e80d75e1df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "494475146682f0e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NOTES/PINN/Ben Moseley PINN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ben Moseley PINN"
+            }
+          },
+          {
+            "id": "8a65c4007560f486",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NOTES/PINN/Ben Moseley PINN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ben Moseley PINN"
+            }
+          },
+          {
+            "id": "d88ab143bf96b252",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db40ab0ad593e7f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NOTES/PINN/Ben Moseley PINN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ben Moseley PINN"
+            }
+          },
+          {
+            "id": "b4a420fd6a028813",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "80323298ac5213f6",
+  "lastOpenFiles": [
+    "IMAGES/Pasted image 20250327011422.png",
+    "CODES/harmonic_motion.ipynb",
+    "CODES/pinn.gif",
+    "CODES/plots/pinn_00019950.png",
+    "CODES/plots/pinn_00019800.png",
+    "CODES/plots/pinn_00019650.png",
+    "CODES/plots/pinn_00019500.png",
+    "CODES/plots/pinn_00019350.png",
+    "CODES/plots/pinn_00019200.png",
+    "CODES/plots/pinn_00019050.png",
+    "CODES/plots/pinn_00018900.png",
+    "CODES/plots/pinn_00018750.png",
+    "CODES/plots",
+    "CODES/Harmonic oscillator PINN.ipynb",
+    "CODES/Unconfirmed 651092.crdownload",
+    "CODES/simple_harmonic.ipynb",
+    "CODES",
+    "IMAGES/oscillator.gif.crdownload",
+    "IMAGES/nn.gif.crdownload",
+    "NOTES/PINN/PINS.md",
+    "Untitled.canvas",
+    "NOTES/PINN/Ben Moseley PINN.md",
+    "DOCUMENTS/PINS/Moseley_2022_Physics-informed_machine_learning.pdf",
+    "Moseley_2022_Physics-informed_machine_learning.pdf.crdownload",
+    "NOTES/Note Physics informed machine learning model for inverse dynamics in robotic manipulators.md",
+    "ShareMyPlugin.md",
+    "NAVIGATION.md",
+    "NOTES/Should It be made legal.md",
+    "NOTES/Test.md",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "IMAGES",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "NOTES",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
+}
